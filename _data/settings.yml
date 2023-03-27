@@ -1,0 +1,28 @@
+title:   Barton lab
+tagline: Pitt CSB
+author:
+  name:    'John P Barton'
+  twitter: _jpbarton
+
+# Change to true for Disqus comments
+disqus:
+  comments: false
+  disqus_shortname: 'barton-lab'
+
+google-ID: 'UA-89355185-2'
+
+menu:
+- {name:    'Posts', url: '../index.html' }
+- {name: 'Research', url: 'research.html' }
+- {name:   'Papers', url: 'papers.html'   }
+- {name:     'Code', url: 'code.html'     }
+- {name:  'Members', url: 'members.html'  }
+- {name:     'Join', url: 'join.html'     }
+
+social:
+- {icon:   'github', link: 'https://www.github.com/bartonlab'                       }
+- {icon:     'book', link: 'https://scholar.google.com/citations?user=ItAcAOMAAAAJ' }
+- {icon:  'twitter', link: 'https://twitter.com/_jpbarton'                          }
+- {icon: 'envelope', link: 'mailto:jpbarton@pitt.edu'                               }
+
+# Available social icons are powered by Font Awesome, so you can use any icon that they offer

@@ -1,0 +1,199 @@
+- title: 'SMBE Meeting'
+  talk_title: 'Disentangling effects of genetic linkage on estimates of selection from large-scale time series genetic data'
+  year: 2018
+  month: 7
+  day: 11
+
+- title: 'Colloquium: Department of Biochemistry, University of California, Riverside'
+  talk_title: 'A statistical physics approach to understanding and predicting protein evolution'
+  invited: true
+  year: 2018
+  month: 6
+  day: 5
+
+- title: 'Statistical Modelling of Protein Sequences: From Fitness to Free Energy Landscapes and Back, Temple University'
+  talk_title: 'Putting the evolution in coevolutionary analysis'
+  invited: true
+  year: 2018
+  month: 5
+  day: 4
+
+- title: 'Colloquium: Interdisciplinary Center for Quantitative Modeling in Biology, University of California, Riverside'
+  talk_title: 'A path integral approach for analytically tractable inference of evolutionary dynamics'
+  invited: true
+  year: 2018
+  month: 3
+  day: 27
+
+- title: 'APS March Meeting'
+  talk_title: 'A path integral approach for analytically tractable inference of evolutionary dynamics'
+  year: 2018
+  month: 3
+  day: 7
+
+- title: 'Colloquium: Department of Physics, California State University, Fullerton'
+  talk_title: 'HIV evolution through the lens of statistical physics'
+  invited: true
+  year: 2017
+  month: 12
+  day: 8
+
+- title: 'Covariance Analysis in Biology Workshop, Harvard Center of Mathematical Sciences and Applications'
+  invited: true
+  year: 2017
+  month: 5
+  day: 4
+
+- title: 'Department of Physics, University of California, Riverside'
+  talk_title: 'Determining the mutational vulnerabilities of HIV and characterizing host-pathogen dynamics in infection'
+  invited: true
+  year: 2017
+  month: 2
+  day: 27
+
+- title: 'Koch Institute Immune Engineering Symposium, MIT'
+  year: 2016
+
+- title: '116th Statistical Mechanics Conference, Rutgers University'
+  talk_title: 'Statistical physics, inference, and the host-pathogen dynamics of HIV'
+  invited: true
+  year: 2016
+  month: 12
+  day: 20
+
+- title: 'Initiative for the Theoretical Sciences, CUNY (declined for family reasons)'
+  invited: true
+  year: 2016
+  month: 10
+  day: 21
+
+- title: 'Institute for Medical Engineering and Science Research Progress Meeting, MIT'
+  talk_title: 'Determining the mutational vulnerabilities of HIV and characterizing host-pathogen dynamics in infection'
+  year: 2016
+  month: 9
+  day: 7
+
+- title: 'Department of Microbiology, University of Pennsylvania School of Medicine'
+  talk_title: 'Determining the mutational vulnerabilities of HIV and characterizing host-pathogen dynamics in infection'
+  invited: true
+  year: 2016
+  month: 4
+  day: 26
+
+- title: "Coevolution in Proteins and RNA, Theory and Experiments Workshop, Institut d'Études Scientifiques de Cargèse"
+  talk_title: 'Statistical physics, inference, and the host-pathogen dynamics of HIV'
+  invited: true
+  year: 2016
+  month: 4
+  day: 18
+
+- title: 'APS March Meeting'
+  talk_title: 'Intra-host HIV evolution to evade cellular immunity is predictable'
+  year: 2016
+  month: 3
+  day: 15
+
+- title: 'Keystone Systems Immunology Meeting (short talk selected from abstracts)'
+  talk_title: 'Intra-host HIV evolution to evade cellular immunity is predictable'
+  invited: true
+  year: 2016
+  month: 1
+  day: 12
+
+- title: 'Monday Meeting, Ragon Institute of MGH, MIT and Harvard'
+  talk_title: 'Predicting HIV evolution in response to host immune pressure: A computational approach'
+  invited: true
+  year: 2015
+  month: 12
+  day: 7
+
+- title: 'Systems Immunology Workshop, Cincinnati Children’s Hospital Medical Center'
+  talk_title: 'Predicting HIV evolution in response to host immune pressure'
+  invited: true
+  year: 2015
+  month: 10
+  day: 27
+
+- title: 'Forecasting Evolution Conference (short talk invitation declined)'
+  talk_title: 'Intra-host HIV evolution to evade cellular immunity is predictable'
+  year: 2015
+  month: 7
+
+- title: 'Mathematical Physics Seminar, Rutgers University'
+  talk_title: 'Viewing HIV evolution through the lens of statistical physics'
+  invited: true
+  year: 2015
+  month: 4
+  day: 16
+
+- title: 'Keystone HIV Vaccines Meeting (short talk selected from abstracts)'
+  talk_title: 'Intra-host HIV evolution to evade cellular immunity is predictable'
+  invited: true
+  year: 2015
+  month: 3
+  day: 26
+
+- title: 'Center for Biophysics and Computational Biology, Temple University'
+  talk_title: 'From HIV sequence data to fitness landscapes'
+  invited: true
+  year: 2015
+  month: 3
+  day: 11
+
+- title: 'APS March Meeting'
+  talk_title: 'Scaling laws describe memories of host-pathogen riposte in the HIV population'
+  year: 2015
+  month: 3
+  day: 5
+
+- title: 'Third Annual Winter Q-Bio Meeting'
+  talk_title: 'Predicting HIV evolution in response to host immune pressure'
+  year: 2015
+  month: 2
+
+- title: '112th Statistical Mechanics Conference, Rutgers University'
+  year: 2014
+
+- title: 'MIT Biophysics Retreat'
+  talk_title: 'From HIV sequence data to fitness landscapes'
+  year: 2014
+  month: 9
+
+- title: 'MIT-MGH Meeting on IBD, Microbiome and Autoimmune Disease'
+  year: 2014
+
+- title: 'Monday Meeting, Ragon Institute of MGH, MIT and Harvard'
+  talk_title: 'From HIV sequence data to fitness landscapes'
+  invited: true
+  year: 2014
+  month: 10
+
+- title: 'Institute for Advanced Study Focused Program on Computational and Experimental Immunology, Hong Kong University of Science and Technology'
+  talk_title: 'From HIV sequence data to fitness landscapes'
+  invited: true
+  year: 2014
+  month: 5
+
+- title: 'First Annual Winter Q-Bio Meeting'
+  year: 2013
+
+- title: 'Harvard Microbial Evolution Group, Harvard University'
+  talk_title: 'From HIV sequence data to fitness landscapes'
+  invited: true
+  year: 2013
+  month: 4
+
+- title: '108th Statistical Mechanics Conference, Rutgers University'
+  year: 2012
+
+- title: 'Massachusetts Institute of Technology'
+  talk_title: 'An efficient algorithm for solving the inverse Ising problem'
+  invited: true
+  year: 2012
+  month: 2
+
+- title: '107th Statistical Mechanics Conference, Rutgers University'
+  year: 2012
+
+- title: '106th Statistical Mechanics Conference, Rutgers University'
+  year: 2011

@@ -1,0 +1,315 @@
+- title: 'Inferring epistasis from genetic time-series data'
+  authors: Sohail MS, Louie RH, Hong Z, <b>Barton JP</b><sup>c</sup>, McKay MR<sup>c</sup>
+  journal: 'Molecular Biology and Evolution'
+  doi: https://doi.org/10.1093/molbev/msac199
+  volume: NA
+  number: NA
+  pages: nan
+  year: 2022
+
+- title: 'Inferring effects of mutations on SARS-CoV-2 transmission from genomic surveillance data'
+  authors: Lee B, Sohail MS, Finney E, Ahmed SF, Quadeer AA, McKay MR, <b>Barton JP</b>
+  journal: 'medRxiv'
+  doi: https://doi.org/10.1101/2021.12.31.21268591
+  volume: NA
+  number: NA
+  pages: 2021.12. 31.21268591
+  year: 2022
+
+- title: 'Pathogenesis, symptomatology, and transmission of SARS-CoV-2 through analysis of viral genomics and structure'
+  authors: Rando HM, MacLean AL, Lee AJ, Lordan R, Ray S, Bansal V, Skelly AN, Sell E, Dziak JJ, Shinholster L
+  journal: 'Msystems'
+  doi: https://doi.org/10.1128/msystems.00095-21
+  volume: 6
+  number: 5
+  pages: e00095-21
+  year: 2021
+
+- title: 'SARS-CoV-2 and COVID-19: An evolving review of diagnostics and therapeutics'
+  authors: Rando HM, Greene CS, Robson MP, Boca SM, Wellhausen N, Lordan R, Brueffer C, Ray S, Lucy D, McGowan A
+  journal: 'Manubot'
+  doi: https://greenelab.github.io/covid19-review/
+  volume: NA
+  number: NA
+  pages: nan
+  year: 2021
+
+- title: 'Dietary supplements and nutraceuticals under investigation for COVID-19 prevention and treatment'
+  authors: Lordan R, Rando HM, Greene CS
+  journal: 'Msystems'
+  doi: https://doi.org/10.1128/mSystems.00122-21
+  volume: 6
+  number: 3
+  pages: e00122-21
+  year: 2021
+
+- title: 'MPL resolves genetic linkage in fitness inference from complex evolutionary histories'
+  authors: Sohail MS<sup>=</sup>, Louie RH<sup>=</sup>, McKay MR<sup>c</sup>, <b>Barton JP</b><sup>c</sup>
+  journal: 'Nature Biotechnology'
+  doi: https://doi.org/10.1038/s41587-020-0737-3
+  volume: 39
+  number: 4
+  pages: 472-479
+  year: 2021
+
+- title: 'Studying viral populations with tools from quantum spin chains'
+  authors: Shivam S, Baldwin CL, <b>Barton J</b>, Kardar M, Sondhi S
+  journal: 'Journal of Statistical Physics'
+  doi: https://doi.org/10.1007/s10955-021-02716-2
+  volume: 182
+  number: 2
+  pages: 12-Jan
+  year: 2021
+
+- title: 'Adenovirus-vectored vaccine containing multidimensionally conserved parts of the HIV proteome is immunogenic in rhesus macaques'
+  authors: Murakowski DK, <b>Barton JP</b>, Peter L, Chandrashekar A, Bondzie E, Gao A, Barouch DH, Chakraborty AK
+  journal: 'Proceedings of the National Academy of Sciences'
+  doi: https://doi.org/10.1073/pnas.2022496118
+  volume: 118
+  number: 5
+  pages: e2022496118
+  year: 2021
+
+- title: 'Predominance of positive epistasis among drug resistance-associated mutations in HIV-1 protease'
+  authors: Zhang T, Dai L, <b>Barton JP</b>, Du Y, Tan Y, Pang W, Chakraborty AK, Lloyd-Smith JO, Sun R
+  journal: 'PLoS Genetics'
+  doi: https://doi.org/10.1371/journal.pgen.1009009
+  volume: 16
+  number: 10
+  pages: e1009009
+  year: 2020
+
+- title: 'Cross-serotypically conserved epitope recommendations for a universal T cell-based dengue vaccine'
+  authors: Ahmed SF, Quadeer AA<sup>c</sup>, <b>Barton JP</b><sup>c</sup>, McKay MR<sup>c</sup>
+  journal: 'PLoS Neglected Tropical Diseases'
+  doi: https://doi.org/10.1371/journal.pntd.0008676
+  volume: 14
+  number: 9
+  pages: e0008676
+  year: 2020
+
+- title: 'MPF-BML: a standalone GUI-based package for maximum entropy model inference'
+  authors: Quadeer AA, McKay MR, <b>Barton JP</b>, Louie RH
+  journal: 'Bioinformatics'
+  doi: https://doi.org/10.1093/bioinformatics/btz925
+  volume: 36
+  number: 7
+  pages: 2278-2279
+  year: 2020
+
+- title: 'Inference of compressed Potts graphical models'
+  authors: Rizzato F, Coucke A, de Leonardis E, <b>Barton JP</b>, Tubiana J, Monasson R, Cocco S
+  journal: 'Physical Review E'
+  doi: https://doi.org/10.1103/PhysRevE.101.012309
+  volume: 101
+  number: 1
+  pages: 12309
+  year: 2020
+
+- title: 'Deconvolving mutational patterns of poliovirus outbreaks reveals its intrinsic fitness landscape'
+  authors: Quadeer AA, <b>Barton JP</b>, Chakraborty AK, McKay MR
+  journal: 'Nature Communications'
+  doi: https://doi.org/10.1038/s41467-019-14174-2
+  volume: 11
+  number: 1
+  pages: 13-Jan
+  year: 2020
+
+- title: 'Modelling and in vitro testing of the HIV-1 Nef fitness landscape'
+  authors: <b>Barton JP</b><sup>=</sup>, Rajkoomar E<sup>=</sup>, Mann JK, Murakowski DK, Toyoda M, Mahiti M, Mwimanzi P, Ueno T, Chakraborty AK, Ndung'u T
+  journal: 'Virus Evolution'
+  doi: https://doi.org/10.1093/ve/vez029
+  volume: 5
+  number: 2
+  pages: vez029
+  year: 2019
+
+- title: 'Characterization of intact proviruses in blood and lymph node from HIV-infected individuals undergoing analytical treatment interruption'
+  authors: Vibholm LK, Lorenzi JC, Pai JA, Cohen YZ, Oliveira TY, <b>Barton JP</b>, <b>Garcia Noceda M</b>, Lu C, Ablanedo-Terrazas Y, Estrada PMDR, Teran GR, Tolstrup M, Denton PW, Damsgaard T, Sogaard OS, Nussenzweig MC
+  journal: 'Journal of Virology'
+  doi: https://doi.org/10.1128/JVI.01920-18
+  volume: 93
+  number: 8
+  pages: e01920-18
+  year: 2019
+
+- title: 'Relationship between intact HIV-1 proviruses in circulating CD4+ T cells and rebound viruses emerging during treatment interruption'
+  authors: Lu C, Pai JA, Nogueira L, Mendoza P, Gruell H, Oliveira TY, <b>Barton J</b>, Lorenzi JC, Cohen YZ, Cohn LB, Klein F, Caskey M, Nussenzweig MC, Jankovic M
+  journal: 'Proceedings of the National Academy of Sciences'
+  doi: https://doi.org/10.1073/pnas.1813512115
+  volume: 115
+  number: 48
+  pages: E11341-E11348
+  year: 2018
+
+- title: 'Relationship between latent and rebound viruses in a clinical trial of anti-HIV-1 antibody 3BNC117'
+  authors: Cohen YZ, Lorenzi JC, Krassnig L, <b>Barton JP</b>, Burke L, Pai J, Lu C, Mendoza P, Oliveira TY, Sleckman C, Millard K, Butler AL, Dizon JP, Belblidia SA, Witmer-Pack M, Shimeliovich I, Gulick RM, Seaman MS, Jankovic M, Caskey M, Nussenzweig MC
+  journal: 'Journal of Experimental Medicine'
+  doi: https://doi.org/10.1084/jem.20180936
+  volume: 215
+  number: 9
+  pages: 2311-2324
+  year: 2018
+
+- title: 'Role of framework mutations and antibody flexibility in the evolution of broadly neutralizing antibodies'
+  authors: Ovchinnikov V<sup>=</sup>, Louveau JE<sup>=</sup>, <b>Barton JP</b><sup>=</sup>, Karplus M, Chakraborty AK
+  journal: 'eLife'
+  doi: https://doi.org/10.7554/eLife.33038
+  volume: 7
+  number: NA
+  pages: e33038
+  year: 2018
+
+- title: 'Fitness landscape of the human immunodeficiency virus envelope protein that is targeted by antibodies'
+  authors: Louie RH<sup>=</sup>, Kaczorowski KJ<sup>=</sup>, <b>Barton JP</b>, Chakraborty AK, McKay MR
+  journal: 'Proceedings of the National Academy of Sciences'
+  doi: https://doi.org/10.1073/pnas.1717765115
+  volume: 115
+  number: 4
+  pages: E564-E573
+  year: 2018
+
+- title: 'Deconstruction of the Ras switching cycle through saturation mutagenesis'
+  authors: Bandaru P, Shah NH, Bhattacharyya M, <b>Barton JP</b>, Kondo Y, Cofsky JC, Gee CL, Chakraborty AK, Kortemme T, Ranganathan R, Kuriyan J
+  journal: 'eLife'
+  doi: https://doi.org/10.7554/eLife.27810
+  volume: 6
+  number: NA
+  pages: e27810
+  year: 2017
+
+- title: 'Rational design of vaccine targets and strategies for HIV: a crossroad of statistical physics, biology, and medicine'
+  authors: Chakraborty AK, <b>Barton JP</b>
+  journal: 'Reports on Progress in Physics'
+  doi: https://doi.org/10.1088/1361-6633/aa574a
+  volume: 80
+  number: 3
+  pages: 32601
+  year: 2017
+
+- title: 'Paired quantitative and qualitative assessment of the replication-competent HIV-1 reservoir and comparison with integrated proviral DNA'
+  authors: Lorenzi JC<sup>=</sup>, Cohen YZ<sup>=</sup>, Cohn LB, Kreider EF, <b>Barton JP</b>, Learn GH, Oliveira T, Lavine CL, Horwitz JA, Settler A, Jankovic M, Seaman MS, Chakraborty AK, Hahn BH, Caskey M, Nussenzweig MC
+  journal: 'Proceedings of the National Academy of Sciences'
+  doi: https://doi.org/10.1073/pnas.1617789113
+  volume: 113
+  number: 49
+  pages: E7908-E7916
+  year: 2016
+
+- title: 'ACE: adaptive cluster expansion for maximum entropy graphical model inference'
+  authors: <b>Barton JP</b><sup>c</sup>, De Leonardis E, Coucke A, Cocco S<sup>c</sup>
+  journal: 'Bioinformatics'
+  doi: https://doi.org/10.1093/bioinformatics/btw328
+  volume: 32
+  number: 20
+  pages: 3089-3097
+  year: 2016
+
+- title: 'Relative rate and location of intra-host HIV evolution to evade cellular immunity are predictable'
+  authors: <b>Barton JP</b>, Goonetilleke N, Butler TC, Walker BD, McMichael AJ, Chakraborty AK
+  journal: 'Nature Communications'
+  doi: https://doi.org/10.1038/ncomms11660
+  volume: 7
+  number: NA
+  pages: 11660
+  year: 2016
+
+- title: 'Identification of drug resistance mutations in HIV from constraints on natural evolution'
+  authors: Butler TC<sup>=</sup>, <b>Barton JP</b><sup>=</sup>, Kardar M, Chakraborty AK
+  journal: 'Physical Review E'
+  doi: https://doi.org/10.1103/PhysRevE.93.022412
+  volume: 93
+  number: 2
+  pages: 22412
+  year: 2016
+
+- title: 'On the entropy of protein families'
+  authors: <b>Barton JP</b>, Chakraborty AK, Cocco S, Jacquin H, Monasson R
+  journal: 'Journal of Statistical Physics'
+  doi: https://doi.org/10.1007/s10955-015-1441-4
+  volume: 162
+  number: 5
+  pages: 1267-1293
+  year: 2016
+
+- title: 'Scaling laws describe memories of host-pathogen riposte in the HIV population'
+  authors: <b>Barton JP</b>, Kardar M, Chakraborty AK
+  journal: 'Proceedings of the National Academy of Sciences'
+  doi: https://doi.org/10.1073/pnas.1415386112
+  volume: 112
+  number: 7
+  pages: 1965-1970
+  year: 2015
+
+- title: 'Remarks on the energy costs of insulators in enzymatic cascades'
+  authors: <b>Barton JP</b>, Sontag ED
+  journal: 'arXiv'
+  preprint: true
+  volume: NA
+  number: NA
+  pages: nan
+  year: 2014
+
+- title: 'The fitness landscape of HIV-1 gag: advanced modeling approaches and validation of model predictions by in vitro testing'
+  authors: Mann JK<sup>=</sup>, <b>Barton JP</b><sup>=</sup>, Ferguson AL<sup>=</sup>, Omarjee S, Walker BD, Chakraborty A, Ndung'u T
+  journal: 'PLoS Computational Biology'
+  doi: https://doi.org/10.1371/journal.pcbi.1003776
+  volume: 10
+  number: 8
+  pages: e1003776
+  year: 2014
+
+- title: 'Large pseudocounts and L<sub>2</sub>-norm penalties are necessary for the mean-field inference of Ising and Potts models'
+  authors: <b>Barton JP</b>, Cocco S, De Leonardis E, Monasson R
+  journal: 'Physical Review E'
+  doi: https://doi.org/10.1103/PhysRevE.90.012132
+  volume: 90
+  number: 1
+  pages: 12132
+  year: 2014
+
+- title: 'Spin models inferred from patient-derived viral sequence data faithfully describe HIV fitness landscapes'
+  authors: Shekhar K, Ruberman CF, Ferguson AL, <b>Barton JP</b>, Kardar M, Chakraborty AK
+  journal: 'Physical Review E'
+  doi: https://doi.org/10.1103/PhysRevE.88.062705
+  volume: 88
+  number: 6
+  pages: 62705
+  year: 2013
+
+- title: 'The energy costs of insulators in biochemical networks'
+  authors: <b>Barton JP</b>, Sontag ED
+  journal: 'Biophysical Journal'
+  doi: https://doi.org/10.1016/j.bpj.2013.01.056
+  volume: 104
+  number: 6
+  pages: 1380-1390
+  year: 2013
+
+- title: 'Ising models for neural activity inferred via selective cluster expansion: structural and coding properties'
+  authors: <b>Barton J</b><sup>c</sup>, Cocco S<sup>c</sup>
+  journal: 'Journal of Statistical Mechanics: Theory and Experiment'
+  doi: https://doi.org/10.1088/1742-5468/2013/03/P03002
+  volume: 2013
+  number: 3
+  pages: P03002
+  year: 2013
+
+- title: 'Phase diagram of a generalized ABC model on the interval'
+  authors: <b>Barton J</b>, Lebowitz JL, Speer ER
+  journal: 'Journal of Statistical Physics'
+  doi: https://doi.org/10.1007/s10955-011-0279-7
+  volume: 145
+  number: 3
+  pages: 763-784
+  year: 2011
+
+- title: 'The grand canonical ABC model: a reflection asymmetric mean-field Potts model'
+  authors: <b>Barton J</b>, Lebowitz JL, Speer ER
+  journal: 'Journal of Physics A: Mathematical and Theoretical'
+  doi: https://doi.org/10.1088/1751-8113/44/6/065005
+  volume: 44
+  number: 6
+  pages: 65005
+  year: 2011
+

@@ -1,0 +1,50 @@
+# Site Settings
+
+paginate:      5
+
+
+# Build settings
+
+markdown:      kramdown
+highlighter:   rouge
+permalink:     none
+plugins:       [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
+destination:   docs
+
+
+# Feed/SEO settings
+
+title:         Barton lab at Pitt CSB
+description:   Research in pathogen evolution, computational immunology, and statistical inference
+url:           https://bartonlab.github.io
+#baseurl:       /docs
+author:        John P Barton
+logo:          favicon.ico
+twitter:
+  username:    _jpbarton
+social:
+  name:        John P Barton
+  links:
+               - https://twitter.com/_jpbarton
+               - https://scholar.google.com/citations?user=ItAcAOMAAAAJ
+               - https://github.com/johnbarton
+               - https://github.com/bartonlab
+
+
+# Repos
+
+projects:
+  - johnbarton/ACE
+  - johnbarton/Python-workshop
+  - johnbarton/paper-Nef-modeling
+  - johnbarton/paper-bnAb-flexibility
+  - johnbarton/mplot
+  - bartonlab/simple-rebound-simulation
+  - bartonlab/paper-innate-immune-adaptation
+  - bartonlab/paper-MPL-inference
+  - bartonlab/paper-SARS-CoV-2-inference
+
+
+# RSS 2.0 can be used instead of Atom by uncommenting following two lines
+#feed:
+#   path:	     rss-feed.xml

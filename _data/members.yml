@@ -1,0 +1,86 @@
+- name: John Barton
+  position: PI
+  handle: jpbarton
+  email: jpbarton@pitt.edu
+  github: johnbarton
+  scholar: ItAcAOMAAAAJ
+  image: assets/img/members/john-barton.jpg
+  cv: cv.html
+  blurb: '<b><a href="/menu/about.html">John Barton</a></b> is an Associate Professor of Computational and Systems Biology at the University of Pittsburgh. He <a href="/menu/research.html">studies</a> pathogen evolution and immunology using methods inspired by statistical physics.'
+
+- name: Liz Finney
+  position: GSR
+  handle: efinn
+  email: efinn001@ucr.edu
+  image: assets/img/members/liz-finney.jpg
+  powur: True
+  blurb: "<b>Liz Finney</b> studies computational epidemiology, immunology, and the evolution of viral pathogens. Most recently, she is working on a project involving SARS-CoV-2. In her spare time, she helps lead POWUR, a student-created group working to foster a climate of diversity, equity, and inclusion in physics."
+
+- name: Yirui Gao
+  position: GSR
+  handle: ygao
+  email: ygao135@ucr.edu
+  image: assets/img/members/yirui-gao.jpg
+  blurb: "<b>Yirui Gao</b> is interested in fitness inference from evolutionary histories using methods from statistical physics. Recently, she has been working on using quantitative trait models to study HIV evolution."
+
+- name: Marco Garcia Noceda
+  position: GSR
+  handle: mgnoceda
+  email: mgarc165@ucr.edu
+  github: mgarc165
+  scholar: Cq-6XSwAAAAJ
+  image: assets/img/members/marco-garcia-noceda.jpeg
+  blurb: "<b>Marco Garcia Noceda</b>'s research interests are in theoretical and computational immunology and information theory. His current work focuses on understanding the dynamics of the latent reservoir of HIV-1. Marco is also the recipient of a UC-MEXUS graduate fellowship."
+
+- name: Zhenchen Hong
+  position: GSR
+  handle: zhong
+  email: zhong010@ucr.edu
+  github: ZhenchenHong
+  scholar: JIgZi1wAAAAJ
+  image: assets/img/members/zhenchen-hong.jpeg
+  blurb: "Before joining UCR, <b>Zhenchen Hong</b> received his BS in Applied Physics from the University of Science and Technology of China in 2017. His research interests are focused on inferring the forces driving viral evolution using methods from statistical physics and machine learning."
+
+- name: Brian Lee
+  position: GSR
+  handle: blee
+  email: blee098@ucr.edu
+  image: assets/img/members/brian-lee.jpg
+  blurb: "<b>Brian Lee</b> is currently studying how cells use the information provided by their environment to make decisions. More generally, he is interested in cellular information processing and its relationship to decision theory. This includes topics such as immune cell decision making, cellular communication, cellular sensing, signal processing networks, and information theory."
+
+- name: Yawei Qin
+  position: GSR
+  handle: yqin
+  email: yqin019@ucr.edu
+  github: ywqin
+  scholar: tdb3IasAAAAJ
+  image: assets/img/members/yawei-qin.jpg
+  blurb: "<b>Yawei Qin</b> is interested in developing theory to explain how immune cells integrate signals from diverse receptors and process information. His work focuses on natural killer cells, a type of lymphocytes that play an important role in innate immune system."
+
+- name: Kevin Yang
+  position: GSR
+  handle: yyang
+  email: yyang325@ucr.edu
+  github: ywqin
+  scholar: tdb3IasAAAAJ
+  image: assets/img/members/kevin-yang.jpg
+  blurb: "<b>Kevin Yang</b> is currently studying immune activation and biochemical signaling networks. His past research focused on physics and public health topics in China, Australia, and the United Kingdom."
+
+- name: Uchenna Nwaege
+  position: UGR
+  handle: unwae
+  email: unwae001@ucr.edu
+  github: Antimad
+  scholar: Pm0_mMgAAAAJ
+  image: assets/img/members/uchenna-nwaege.jpg
+  blurb: "<b>Uchenna Nwaege</b> is an undergraduate student interested in statistical inference and biophysics. He is working on inferring mutation rates from evolutionary data."
+
+- name: Yunxiao Li
+  alumni: true
+  position: GSR
+  handle: yli
+  email: yli354@ucr.edu
+  github: yunxiaoli2017
+  scholar: UB0tu2EAAAAJ
+  image: assets/img/members/yunxiao-li.jpg
+  blurb: "<b>Yunxiao Li</b> graduated from UCR with his PhD in Physics in 2022. He currently works at a protein engineering startup company. Yunxiao's work focused on understanding how to extract information about population structure from time-series short-read sequencing data."

@@ -1,0 +1,17 @@
+# Compiled site
+_site/
+
+# Old files
+_old/
+
+# Projects
+projects/
+!projects/index.html
+
+# Jekyll metadata
+.jekyll-metadata
+
+# Mac hidden files
+.DS_Store
+*/.DS_Store
+*/*/.DS_Store

@@ -1,0 +1,52 @@
+<head>
+
+    <!-- Google analytics -->
+    {% include google-analytics.html %}
+
+    <title>
+        {% if page.title == "Home" %}
+            {{ site.data.settings.title }} | {{ site.data.settings.tagline }}
+        {% else %}
+            {{ page.title }} | {{ site.data.settings.title }}
+        {% endif %}
+    </title>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="UTF-8">
+
+    <!-- Main style -->
+    <link rel="stylesheet" href="{{ site.github.url }}/assets/css/main.css">
+    <link rel="stylesheet" href="{{ site.github.url }}/assets/css/syntax.css">
+
+    <!-- Google fonts -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Avenir">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Code+Pro">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css">
+
+    <!-- RSS-v2.0
+     <link href="{{ site.github.url }}/feed.xml" type="application/rss+xml" rel="alternate" title="{{ site.data.settings.title }} | {{ site.data.settings.tagline }}"/>
+     //-->
+
+    <!--
+    <script type="text/javascript" async
+     src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
+    </script>
+    -->
+
+    <!-- KaTeX + auto render -->
+    <script src="/assets/js/katex.min.js" type="text/javascript"></script>
+    <link href="/assets/css/katex.min.css" rel="stylesheet" type="text/css">
+    <script src="/assets/js/auto-render.min.js" type="text/javascript"></script>
+    <script>
+      document.addEventListener("DOMContentLoaded", function() {
+        renderMathInElement(document.body);
+      });
+    </script>
+
+    <!-- SEO tags -->
+    {% seo %}
+
+    <!-- Use Atom -->
+    {% feed_meta %}
+
+</head>
