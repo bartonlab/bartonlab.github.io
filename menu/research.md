@@ -9,7 +9,7 @@ We seek to answer these kinds of questions by bringing together theory and data 
 
 <br>
 
-<img class="theme" src="{{ site.github.url }}/assets/img/research/viral_evolution.png" width="200" height="200"/>
+<img class="theme" src="{{ site.baseurl }}/assets/img/research/viral_evolution.png" width="200" height="200"/>
 
 ### Virus evolution
 
@@ -19,24 +19,24 @@ We aim to build a quantitative, *predictive* understanding of pathogen dynamics 
 
 #### Key papers:
 
-<small><b>Inferring effects of mutations on SARS-CoV-2 transmission from genomic surveillance data</b><br>Lee B, Sohail MS, Finney E, Ahmed SF, Quadeer AA, McKay MR, <b>Barton JP</b><br>medRxiv <a href="https://doi.org/10.1101/2021.12.31.21268591">[journal link]</a> <a href="{{ site.github.url }}/assets/pdf/papers/lee-sc2-transmission.pdf">[pdf]</a> <a href="https://github.com/bartonlab/paper-SARS-CoV-2-inference">[code]</a></small>
+<small><b>Inferring effects of mutations on SARS-CoV-2 transmission from genomic surveillance data</b><br>Lee B, Sohail MS, Finney E, Ahmed SF, Quadeer AA, McKay MR, <b>Barton JP</b><br>medRxiv <a href="https://doi.org/10.1101/2021.12.31.21268591">[journal link]</a> <a href="{{ site.baseurl }}/assets/pdf/papers/lee-sc2-transmission.pdf">[pdf]</a> <a href="https://github.com/bartonlab/paper-SARS-CoV-2-inference">[code]</a></small>
 
-<small><b>MPL resolves genetic linkage in fitness inference from complex evolutionary histories</b><br>Sohail MS<sup>=</sup>, Louie RH<sup>=</sup>, McKay MR<sup>c</sup>, <b>Barton JP</b><sup>c</sup><br>Nature Biotechnology <a href="https://doi.org/10.1038/s41587-020-0737-3">[journal link]</a> <a href="{{ site.github.url }}/assets/pdf/papers/sohail-mpl.pdf">[pdf]</a> <a href="{{ site.github.url }}/assets/pdf/papers/sohail-mpl-si.pdf">[si]</a> <a href="https://github.com/bartonlab/paper-MPL-inference">[code]</a></small>
+<small><b>MPL resolves genetic linkage in fitness inference from complex evolutionary histories</b><br>Sohail MS<sup>=</sup>, Louie RH<sup>=</sup>, McKay MR<sup>c</sup>, <b>Barton JP</b><sup>c</sup><br>Nature Biotechnology <a href="https://doi.org/10.1038/s41587-020-0737-3">[journal link]</a> <a href="{{ site.baseurl }}/assets/pdf/papers/sohail-mpl.pdf">[pdf]</a> <a href="{{ site.baseurl }}/assets/pdf/papers/sohail-mpl-si.pdf">[si]</a> <a href="https://github.com/bartonlab/paper-MPL-inference">[code]</a></small>
 
-<small><b>Paired quantitative and qualitative assessment of the replication-competent HIV-1 reservoir and comparison with integrated proviral DNA</b><br>Lorenzi JC, Cohen YZ, Cohn LB, Kreider EF, <b>Barton JP</b>, Learn GH, Oliveira T, Lavine CL, Horwitz JA, Settler A<br>Proceedings of the National Academy of Sciences, 2016 <a href="https://doi.org/10.1073/pnas.1617789113">[journal link]</a> <a href="{{ site.github.url }}/assets/pdf/papers/lorenzi-qqvoa.pdf">[pdf]</a> <a href="{{ site.github.url }}/assets/pdf/papers/lorenzi-qqvoa-si.pdf">[si]</a></small>
+<small><b>Paired quantitative and qualitative assessment of the replication-competent HIV-1 reservoir and comparison with integrated proviral DNA</b><br>Lorenzi JC, Cohen YZ, Cohn LB, Kreider EF, <b>Barton JP</b>, Learn GH, Oliveira T, Lavine CL, Horwitz JA, Settler A<br>Proceedings of the National Academy of Sciences, 2016 <a href="https://doi.org/10.1073/pnas.1617789113">[journal link]</a> <a href="{{ site.baseurl }}/assets/pdf/papers/lorenzi-qqvoa.pdf">[pdf]</a> <a href="{{ site.baseurl }}/assets/pdf/papers/lorenzi-qqvoa-si.pdf">[si]</a></small>
 
 <!---
-<small><b>Scaling laws describe memories of host-pathogen riposte in the HIV population</b><br><b>Barton JP</b>, Kardar M, Chakraborty AK<br>Proceedings of the National Academy of Sciences, 2015 <a href="https://doi.org/10.1073/pnas.1415386112">[journal link]</a> <a href="{{ site.github.url }}/assets/pdf/papers/barton-hiv-basins.pdf">[pdf]</a> <a href="{{ site.github.url }}/assets/pdf/papers/barton-hiv-basins-si.pdf">[si]</a></small>
+<small><b>Scaling laws describe memories of host-pathogen riposte in the HIV population</b><br><b>Barton JP</b>, Kardar M, Chakraborty AK<br>Proceedings of the National Academy of Sciences, 2015 <a href="https://doi.org/10.1073/pnas.1415386112">[journal link]</a> <a href="{{ site.baseurl }}/assets/pdf/papers/barton-hiv-basins.pdf">[pdf]</a> <a href="{{ site.baseurl }}/assets/pdf/papers/barton-hiv-basins-si.pdf">[si]</a></small>
 -->
 
 <!---
-<small><b>The fitness landscape of HIV-1 gag: advanced modeling approaches and validation of model predictions by in vitro testing</b><br>Mann JK<sup>=</sup>, <b>Barton JP</b><sup>=</sup>, Ferguson AL<sup>=</sup>, Omarjee S, Walker BD, Chakraborty A, Ndung'u T<br>PLoS Computational Biology, 2014 <a href="https://doi.org/10.1371/journal.pcbi.1003776">[journal link]</a> <a href="{{ site.github.url }}/assets/pdf/papers/mann-gag-landscape.pdf">[pdf]</a> <a href="{{ site.github.url }}/assets/pdf/papers/mann-gag-landscape-si.pdf">[si]</a></small>
+<small><b>The fitness landscape of HIV-1 gag: advanced modeling approaches and validation of model predictions by in vitro testing</b><br>Mann JK<sup>=</sup>, <b>Barton JP</b><sup>=</sup>, Ferguson AL<sup>=</sup>, Omarjee S, Walker BD, Chakraborty A, Ndung'u T<br>PLoS Computational Biology, 2014 <a href="https://doi.org/10.1371/journal.pcbi.1003776">[journal link]</a> <a href="{{ site.baseurl }}/assets/pdf/papers/mann-gag-landscape.pdf">[pdf]</a> <a href="{{ site.baseurl }}/assets/pdf/papers/mann-gag-landscape-si.pdf">[si]</a></small>
 -->
 
 <br>
 
 
-<img class="theme" src="{{ site.github.url }}/assets/img/research/innate_immunity.png" width="200" height="200"/>
+<img class="theme" src="{{ site.baseurl }}/assets/img/research/innate_immunity.png" width="200" height="200"/>
 
 ### Innate immunity
 
@@ -44,7 +44,7 @@ The innate immune system is our first line of defense against invading pathogens
 
 <br>
 
-<img class="theme" src="{{ site.github.url }}/assets/img/research/statistical_inference.png" width="200" height="200"/>
+<img class="theme" src="{{ site.baseurl }}/assets/img/research/statistical_inference.png" width="200" height="200"/>
 
 ### Statistical inference
 
@@ -56,8 +56,8 @@ One of our goals is to develop methods to efficiently learn from this kind of da
 
 #### Key papers:
 
-<small><b>Inferring effects of mutations on SARS-CoV-2 transmission from genomic surveillance data</b><br>Lee B, Sohail MS, Finney E, Ahmed SF, Quadeer AA, McKay MR, <b>Barton JP</b><br>medRxiv <a href="https://doi.org/10.1101/2021.12.31.21268591">[journal link]</a> <a href="{{ site.github.url }}/assets/pdf/papers/lee-sc2-transmission.pdf">[pdf]</a> <a href="https://github.com/bartonlab/paper-SARS-CoV-2-inference">[code]</a></small>
+<small><b>Inferring effects of mutations on SARS-CoV-2 transmission from genomic surveillance data</b><br>Lee B, Sohail MS, Finney E, Ahmed SF, Quadeer AA, McKay MR, <b>Barton JP</b><br>medRxiv <a href="https://doi.org/10.1101/2021.12.31.21268591">[journal link]</a> <a href="{{ site.baseurl }}/assets/pdf/papers/lee-sc2-transmission.pdf">[pdf]</a> <a href="https://github.com/bartonlab/paper-SARS-CoV-2-inference">[code]</a></small>
 
-<small><b>MPL resolves genetic linkage in fitness inference from complex evolutionary histories</b><br>Sohail MS<sup>=</sup>, Louie RH<sup>=</sup>, McKay MR<sup>c</sup>, <b>Barton JP</b><sup>c</sup><br>Nature Biotechnology <a href="https://doi.org/10.1038/s41587-020-0737-3">[journal link]</a> <a href="{{ site.github.url }}/assets/pdf/papers/sohail-mpl.pdf">[pdf]</a> <a href="{{ site.github.url }}/assets/pdf/papers/sohail-mpl-si.pdf">[si]</a> <a href="https://github.com/bartonlab/paper-MPL-inference">[code]</a></small>
+<small><b>MPL resolves genetic linkage in fitness inference from complex evolutionary histories</b><br>Sohail MS<sup>=</sup>, Louie RH<sup>=</sup>, McKay MR<sup>c</sup>, <b>Barton JP</b><sup>c</sup><br>Nature Biotechnology <a href="https://doi.org/10.1038/s41587-020-0737-3">[journal link]</a> <a href="{{ site.baseurl }}/assets/pdf/papers/sohail-mpl.pdf">[pdf]</a> <a href="{{ site.baseurl }}/assets/pdf/papers/sohail-mpl-si.pdf">[si]</a> <a href="https://github.com/bartonlab/paper-MPL-inference">[code]</a></small>
 
-<small><b>ACE: adaptive cluster expansion for maximum entropy graphical model inference</b><br><b>Barton JP</b><sup>c</sup>, De Leonardis E, Coucke A, Cocco S<sup>c</sup><br>Bioinformatics, 2016 <a href="https://doi.org/10.1093/bioinformatics/btw328">[journal link]</a> <a href="{{ site.github.url }}/assets/pdf/papers/barton-ace.pdf">[pdf]</a> <a href="{{ site.github.url }}/assets/pdf/papers/barton-ace-si.pdf">[si]</a> <a href="https://github.com/johnbarton/ACE">[code]</a></small>
+<small><b>ACE: adaptive cluster expansion for maximum entropy graphical model inference</b><br><b>Barton JP</b><sup>c</sup>, De Leonardis E, Coucke A, Cocco S<sup>c</sup><br>Bioinformatics, 2016 <a href="https://doi.org/10.1093/bioinformatics/btw328">[journal link]</a> <a href="{{ site.baseurl }}/assets/pdf/papers/barton-ace.pdf">[pdf]</a> <a href="{{ site.baseurl }}/assets/pdf/papers/barton-ace-si.pdf">[si]</a> <a href="https://github.com/johnbarton/ACE">[code]</a></small>

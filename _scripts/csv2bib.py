@@ -32,146 +32,146 @@ paper_link_categories = [
 
 paper_properties = {
     'https://doi.org/10.1101/2021.12.31.21268591': dict(
-        pdf_link = '{{ site.github.url }}/assets/pdf/papers/lee-sc2-transmission.pdf',
+        pdf_link = '{{ site.baseurl }}/assets/pdf/papers/lee-sc2-transmission.pdf',
         repo_link = 'https://github.com/bartonlab/paper-SARS-CoV-2-inference'
     ),
     'https://doi.org/10.1093/molbev/msac199': dict(
         co_corresponding = ['McKay, M', 'Barton, J'],
-        pdf_link = '{{ site.github.url }}/assets/pdf/papers/sohail-epistasis.pdf',
+        pdf_link = '{{ site.baseurl }}/assets/pdf/papers/sohail-epistasis.pdf',
     ),
     'https://doi.org/10.1128/mSystems.00122-21': dict(
-        pdf_link = '{{ site.github.url }}/assets/pdf/papers/lordan-supplements.pdf',
+        pdf_link = '{{ site.baseurl }}/assets/pdf/papers/lordan-supplements.pdf',
     ),
     'https://doi.org/10.1128/msystems.00095-21': dict(
-        pdf_link = '{{ site.github.url }}/assets/pdf/papers/rando-pathogenesis.pdf',
+        pdf_link = '{{ site.baseurl }}/assets/pdf/papers/rando-pathogenesis.pdf',
     ),
     'https://doi.org/10.1073/pnas.2022496118': dict(
-        pdf_link = '{{ site.github.url }}/assets/pdf/papers/murakowski-vaccine.pdf',
-        si_link = '{{ site.github.url }}/assets/pdf/papers/murakowski-vaccine-si.pdf',
+        pdf_link = '{{ site.baseurl }}/assets/pdf/papers/murakowski-vaccine.pdf',
+        si_link = '{{ site.baseurl }}/assets/pdf/papers/murakowski-vaccine-si.pdf',
     ),
     'https://doi.org/10.1038/s41587-020-0737-3': dict(
         equal_contributions = ['Sohail, M', 'Louie, R'],
         co_corresponding = ['McKay, M', 'Barton, J'],
         repo_link = 'https://github.com/bartonlab/paper-MPL-inference',
-        pdf_link = '{{ site.github.url }}/assets/pdf/papers/sohail-mpl.pdf',
-        si_link = '{{ site.github.url }}/assets/pdf/papers/sohail-mpl-si.pdf',
+        pdf_link = '{{ site.baseurl }}/assets/pdf/papers/sohail-mpl.pdf',
+        si_link = '{{ site.baseurl }}/assets/pdf/papers/sohail-mpl-si.pdf',
     ),
     'https://doi.org/10.1371/journal.pntd.0008676': dict(
         co_corresponding = ['Quadeer, A', 'McKay, M', 'Barton, J'],
         repo_link = 'https://github.com/faraz107/Robust-DENV-Vaccine-Candidates',
-        pdf_link = '{{ site.github.url }}/assets/pdf/papers/ahmed-dengue.pdf',
+        pdf_link = '{{ site.baseurl }}/assets/pdf/papers/ahmed-dengue.pdf',
     ),
     'https://doi.org/10.1007/s10955-021-02716-2': dict(
-        pdf_link = '{{ site.github.url }}/assets/pdf/papers/shivam-spin.pdf',
+        pdf_link = '{{ site.baseurl }}/assets/pdf/papers/shivam-spin.pdf',
     ),
     'https://doi.org/10.1371/journal.pgen.1009009': dict(
-        pdf_link = '{{ site.github.url }}/assets/pdf/papers/zhang-epistasis.pdf',
+        pdf_link = '{{ site.baseurl }}/assets/pdf/papers/zhang-epistasis.pdf',
     ),
     'https://doi.org/10.1093/bioinformatics/btz925': dict(
-        pdf_link = '{{ site.github.url }}/assets/pdf/papers/quadeer-mpf-bml.pdf',
-        si_link = '{{ site.github.url }}/assets/pdf/papers/quadeer-mpf-bml-si.pdf',
+        pdf_link = '{{ site.baseurl }}/assets/pdf/papers/quadeer-mpf-bml.pdf',
+        si_link = '{{ site.baseurl }}/assets/pdf/papers/quadeer-mpf-bml-si.pdf',
         repo_link = 'https://github.com/ahmedaq/MPF-BML-GUI',
     ),
     'https://doi.org/10.1103/PhysRevE.101.012309': dict(
-        pdf_link = '{{ site.github.url }}/assets/pdf/papers/rizzato-compression.pdf',
+        pdf_link = '{{ site.baseurl }}/assets/pdf/papers/rizzato-compression.pdf',
     ),
     'https://doi.org/10.1038/s41467-019-14174-2': dict(
         #co_corresponding = ['Chakraborty, A', 'McKay, M'],
-        pdf_link = '{{ site.github.url }}/assets/pdf/papers/quadeer-poliovirus.pdf',
-        si_link = '{{ site.github.url }}/assets/pdf/papers/quadeer-poliovirus-si.pdf',
+        pdf_link = '{{ site.baseurl }}/assets/pdf/papers/quadeer-poliovirus.pdf',
+        si_link = '{{ site.baseurl }}/assets/pdf/papers/quadeer-poliovirus-si.pdf',
     ),
     'https://doi.org/10.1128/JVI.01920-18': dict(
-        pdf_link = '{{ site.github.url }}/assets/pdf/papers/vibholm-reservoir-compartments.pdf',
+        pdf_link = '{{ site.baseurl }}/assets/pdf/papers/vibholm-reservoir-compartments.pdf',
     ),
     'https://doi.org/10.1073/pnas.1813512115': dict(
-        pdf_link = '{{ site.github.url }}/assets/pdf/papers/lu-reservoir-rebound.pdf',
-        si_link = '{{ site.github.url }}/assets/pdf/papers/lu-reservoir-rebound-si.pdf',
+        pdf_link = '{{ site.baseurl }}/assets/pdf/papers/lu-reservoir-rebound.pdf',
+        si_link = '{{ site.baseurl }}/assets/pdf/papers/lu-reservoir-rebound-si.pdf',
     ),
     'https://doi.org/10.1084/jem.20180936': dict(
-        pdf_link = '{{ site.github.url }}/assets/pdf/papers/cohen-reservoir-rebound.pdf',
-        si_link = '{{ site.github.url }}/assets/pdf/papers/cohen-reservoir-rebound-si.pdf',
+        pdf_link = '{{ site.baseurl }}/assets/pdf/papers/cohen-reservoir-rebound.pdf',
+        si_link = '{{ site.baseurl }}/assets/pdf/papers/cohen-reservoir-rebound-si.pdf',
     ),
     'https://doi.org/10.1093/ve/vez029': dict(
         equal_contributions = ['Barton, J', 'Rajkoomar, E'],
-        pdf_link = '{{ site.github.url }}/assets/pdf/papers/barton-nef.pdf',
+        pdf_link = '{{ site.baseurl }}/assets/pdf/papers/barton-nef.pdf',
         repo_link = 'https://github.com/johnbarton/paper-Nef-modeling'
     ),
     'https://doi.org/10.7554/eLife.33038': dict(
         equal_contributions = ['Ovchinnikov, V', 'Louveau, J', 'Barton, J'],
         #co_corresponding = ['Karplus, M', 'Chakraborty, A'],
-        pdf_link = '{{ site.github.url }}/assets/pdf/papers/ovchinnikov-bnab-flexibility.pdf',
+        pdf_link = '{{ site.baseurl }}/assets/pdf/papers/ovchinnikov-bnab-flexibility.pdf',
         repo_link = 'https://github.com/johnbarton/paper-bnAb-flexibility'
     ),
     'https://doi.org/10.1073/pnas.1717765115': dict(
         equal_contributions = ['Louie, R', 'Kaczorowski, K'],
         #co_corresponding = ['Chakraborty, A', 'McKay, M'],
-        pdf_link = '{{ site.github.url }}/assets/pdf/papers/louie-env-fitness.pdf',
-        si_link = '{{ site.github.url }}/assets/pdf/papers/louie-env-fitness-si.pdf',
+        pdf_link = '{{ site.baseurl }}/assets/pdf/papers/louie-env-fitness.pdf',
+        si_link = '{{ site.baseurl }}/assets/pdf/papers/louie-env-fitness-si.pdf',
     ),
     'https://doi.org/10.7554/eLife.27810.001': dict(
         #co_corresponding = ['Ranganathan, R', 'Kuriyan, J'],
-        pdf_link = '{{ site.github.url }}/assets/pdf/papers/bandaru-ras.pdf',
+        pdf_link = '{{ site.baseurl }}/assets/pdf/papers/bandaru-ras.pdf',
     ),
     'https://doi.org/10.7554/eLife.27810': dict(
-        pdf_link = '{{ site.github.url }}/assets/pdf/papers/bandaru-ras.pdf',
+        pdf_link = '{{ site.baseurl }}/assets/pdf/papers/bandaru-ras.pdf',
     ),
     'https://doi.org/10.1088/1361-6633/aa574a': dict(
-        pdf_link = '{{ site.github.url }}/assets/pdf/papers/chakraborty-vaccine-design.pdf',
+        pdf_link = '{{ site.baseurl }}/assets/pdf/papers/chakraborty-vaccine-design.pdf',
     ),
     'https://doi.org/10.1073/pnas.1617789113': dict(
         equal_contributions = ['Lorenzi, J', 'Cohen, Y'],
-        pdf_link = '{{ site.github.url }}/assets/pdf/papers/lorenzi-qqvoa.pdf',
-        si_link = '{{ site.github.url }}/assets/pdf/papers/lorenzi-qqvoa-si.pdf',
+        pdf_link = '{{ site.baseurl }}/assets/pdf/papers/lorenzi-qqvoa.pdf',
+        si_link = '{{ site.baseurl }}/assets/pdf/papers/lorenzi-qqvoa-si.pdf',
     ),
     'https://doi.org/10.1093/bioinformatics/btw328': dict(
         co_corresponding = ['Barton, J', 'Cocco, S'],
-        pdf_link = '{{ site.github.url }}/assets/pdf/papers/barton-ace.pdf',
-        si_link = '{{ site.github.url }}/assets/pdf/papers/barton-ace-si.pdf',
+        pdf_link = '{{ site.baseurl }}/assets/pdf/papers/barton-ace.pdf',
+        si_link = '{{ site.baseurl }}/assets/pdf/papers/barton-ace-si.pdf',
         repo_link = 'https://github.com/johnbarton/ACE',
     ),
     'https://doi.org/10.1038/ncomms11660': dict(
-        pdf_link = '{{ site.github.url }}/assets/pdf/papers/barton-hiv-escape.pdf',
-        si_link = '{{ site.github.url }}/assets/pdf/papers/barton-hiv-escape-si.pdf',
+        pdf_link = '{{ site.baseurl }}/assets/pdf/papers/barton-hiv-escape.pdf',
+        si_link = '{{ site.baseurl }}/assets/pdf/papers/barton-hiv-escape-si.pdf',
     ),
     'https://doi.org/10.1103/PhysRevE.93.022412': dict(
         equal_contributions = ['Butler, T', 'Barton, J'],
-        pdf_link = '{{ site.github.url }}/assets/pdf/papers/butler-protease.pdf',
+        pdf_link = '{{ site.baseurl }}/assets/pdf/papers/butler-protease.pdf',
     ),
     'https://doi.org/10.1007/s10955-015-1441-4': dict(
-        pdf_link = '{{ site.github.url }}/assets/pdf/papers/barton-pfam-entropy.pdf',
+        pdf_link = '{{ site.baseurl }}/assets/pdf/papers/barton-pfam-entropy.pdf',
     ),
     'https://doi.org/10.1073/pnas.1415386112': dict(
-        pdf_link = '{{ site.github.url }}/assets/pdf/papers/barton-hiv-basins.pdf',
-        si_link = '{{ site.github.url }}/assets/pdf/papers/barton-hiv-basins-si.pdf',
+        pdf_link = '{{ site.baseurl }}/assets/pdf/papers/barton-hiv-basins.pdf',
+        si_link = '{{ site.baseurl }}/assets/pdf/papers/barton-hiv-basins-si.pdf',
     ),
     'https://arxiv.org/abs/1412.8065': dict(
-        pdf_link = '{{ site.github.url }}/assets/pdf/papers/barton-insulator-remarks.pdf',
+        pdf_link = '{{ site.baseurl }}/assets/pdf/papers/barton-insulator-remarks.pdf',
     ),
     'https://doi.org/10.1103/PhysRevE.90.012132': dict(
-        pdf_link = '{{ site.github.url }}/assets/pdf/papers/barton-large-pseudocounts.pdf',
+        pdf_link = '{{ site.baseurl }}/assets/pdf/papers/barton-large-pseudocounts.pdf',
     ),
     'https://doi.org/10.1371/journal.pcbi.1003776': dict(
         equal_contributions = ['Mann, J', 'Barton, J', 'Ferguson, A'],
-        pdf_link = '{{ site.github.url }}/assets/pdf/papers/mann-gag-landscape.pdf',
-        si_link = '{{ site.github.url }}/assets/pdf/papers/mann-gag-landscape-si.pdf',
+        pdf_link = '{{ site.baseurl }}/assets/pdf/papers/mann-gag-landscape.pdf',
+        si_link = '{{ site.baseurl }}/assets/pdf/papers/mann-gag-landscape-si.pdf',
     ),
     'https://doi.org/10.1103/PhysRevE.88.062705': dict(
-        pdf_link = '{{ site.github.url }}/assets/pdf/papers/shekhar-hiv.pdf',
-        si_link = '{{ site.github.url }}/assets/pdf/papers/shekhar-hiv-si.pdf',
+        pdf_link = '{{ site.baseurl }}/assets/pdf/papers/shekhar-hiv.pdf',
+        si_link = '{{ site.baseurl }}/assets/pdf/papers/shekhar-hiv-si.pdf',
     ),
     'https://doi.org/10.1016/j.bpj.2013.01.056': dict(
-        pdf_link = '{{ site.github.url }}/assets/pdf/papers/barton-insulator.pdf',
-        si_link = '{{ site.github.url }}/assets/pdf/papers/barton-insulator-si.pdf',
+        pdf_link = '{{ site.baseurl }}/assets/pdf/papers/barton-insulator.pdf',
+        si_link = '{{ site.baseurl }}/assets/pdf/papers/barton-insulator-si.pdf',
     ),
     'https://doi.org/10.1088/1742-5468/2013/03/P03002': dict(
         co_corresponding = ['Barton, J', 'Cocco, S'],
-        pdf_link = '{{ site.github.url }}/assets/pdf/papers/barton-neural.pdf',
+        pdf_link = '{{ site.baseurl }}/assets/pdf/papers/barton-neural.pdf',
     ),
     'https://doi.org/10.1007/s10955-011-0279-7': dict(
-        pdf_link = '{{ site.github.url }}/assets/pdf/papers/barton-gabc.pdf',
+        pdf_link = '{{ site.baseurl }}/assets/pdf/papers/barton-gabc.pdf',
     ),
     'https://doi.org/10.1088/1751-8113/44/6/065005': dict(
-        pdf_link = '{{ site.github.url }}/assets/pdf/papers/barton-gcabc.pdf',
+        pdf_link = '{{ site.baseurl }}/assets/pdf/papers/barton-gcabc.pdf',
     )
 }
 

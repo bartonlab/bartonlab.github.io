@@ -3,8 +3,8 @@
 	<channel>
 		<title>Barton lab</title>
 		<description>Pitt CSB</description>
-		<link>https://github.com/pages/bartonlab/bartonlab-build</link>
-		<atom:link href="https://github.com/pages/bartonlab/bartonlab-build/rss-feed.xml" rel="self" type="application/rss+xml" />
+		<link>https://github.com/pages/bartonlab/bartonlab.github.io</link>
+		<atom:link href="https://github.com/pages/bartonlab/bartonlab.github.io/rss-feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
 				<title>New grant support</title>
@@ -23,7 +23,7 @@
 				<title>A new student joins the lab</title>
 				
 				
-					<description>&lt;p&gt;Welcome to one new student, Brian Lee! See the &lt;a href=&quot;https://github.com/pages/bartonlab/bartonlab-build/menu/members.html&quot;&gt;Members&lt;/a&gt; page for more information on Brian’s work.&lt;/p&gt;
+					<description>&lt;p&gt;Welcome to one new student, Brian Lee! See the &lt;a href=&quot;https://github.com/pages/bartonlab/bartonlab.github.io/menu/members.html&quot;&gt;Members&lt;/a&gt; page for more information on Brian’s work.&lt;/p&gt;
 </description>
 				
 				<pubDate>Tue, 01 Oct 2019 00:00:00 -0400</pubDate>
@@ -35,7 +35,7 @@
 				<title>First graduate students join the lab</title>
 				
 				
-					<description>&lt;p&gt;Welcome to four new graduate students: Marco Garcia Noceda, Zhenchen Hong, Yunxiao Li, and Yawei Qin. Read more about their work on the &lt;a href=&quot;https://github.com/pages/bartonlab/bartonlab-build/menu/members.html&quot;&gt;Members&lt;/a&gt; page!&lt;/p&gt;
+					<description>&lt;p&gt;Welcome to four new graduate students: Marco Garcia Noceda, Zhenchen Hong, Yunxiao Li, and Yawei Qin. Read more about their work on the &lt;a href=&quot;https://github.com/pages/bartonlab/bartonlab.github.io/menu/members.html&quot;&gt;Members&lt;/a&gt; page!&lt;/p&gt;
 </description>
 				
 				<pubDate>Mon, 01 Oct 2018 00:00:00 -0400</pubDate>

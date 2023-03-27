@@ -10,11 +10,11 @@ title: Members
 <div class="grid">
   <div class="member-left">
 		{% if member.image %}
-			<img class="theme" src="{{ site.github.url }}/{{ member.image }}" width="120">
+			<img class="theme" src="{{ site.baseurl }}/{{ member.image }}" width="120">
 		{% endif %}
     <p style="margin-bottom:0px; margin-top:10px;">
       {% if member.cv %}
-        <small><a href="{{ site.github.url }}/{{ member.cv }}">CV</a></small>
+        <small><a href="{{ site.baseurl }}/{{ member.cv }}">CV</a></small>
       {% endif %}		
       {% if member.twitter %}
         <a href="https://twitter.com/{{ member.twitter }}" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>		
