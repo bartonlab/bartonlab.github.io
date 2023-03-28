@@ -16,7 +16,7 @@ destination:   docs
 
 title:         Barton lab at Pitt CSB
 description:   Research in pathogen evolution, computational immunology, and statistical inference
-url:           https://bartonlab.github.io
+url:           bartonlab.github.io
 baseurl:       /docs
 author:        John P Barton
 logo:          favicon.ico

@@ -8,9 +8,9 @@ title: Code
 <ul class="code-list">
 {% for project in site.data.projects %}
     <li>
-        <a class="project-title" href="{{ project.url }}">{{ project.title }}</a>
+        <a class="project-title" href="{{ project.url | relative_url }}">{{ project.title }}</a>
         <div class="smallspacer"></div>
-        <a class="project-subtitle" href="{{ project.url }}">{{ project.description }}</a>
+        <a class="project-subtitle" href="{{ project.url | relative_url }}">{{ project.description }}</a>
         <div class="smallspacer"></div>
         <small>
 	        Updated
