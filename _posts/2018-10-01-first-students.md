@@ -6,4 +6,4 @@ categories: posts
 tags: [lab,UCR]
 ---
 
-Welcome to four new graduate students: Marco Garcia Noceda, Zhenchen Hong, Yunxiao Li, and Yawei Qin. Read more about their work on the [Members]({{ site.github.url }}/menu/members.html) page!
+Welcome to four new graduate students: Marco Garcia Noceda, Zhenchen Hong, Yunxiao Li, and Yawei Qin. Read more about their work on the [Members]({{ "/menu/members.html" | relative_url }}) page!

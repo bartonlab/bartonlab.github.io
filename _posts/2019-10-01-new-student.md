@@ -6,4 +6,4 @@ categories: posts
 tags: [lab,UCR]
 ---
 
-Welcome to one new student, Brian Lee! See the [Members]({{ site.github.url }}/menu/members.html) page for more information on Brian's work.
+Welcome to one new student, Brian Lee! See the [Members]({{ "/menu/members.html" | relative_url }}) page for more information on Brian's work.

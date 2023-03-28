@@ -3,7 +3,7 @@ layout: page
 title: Join
 ---
 
-I'm looking for prospective graduate (or undergraduate) students and postdocs who are interested in working on problems in immunology, evolution, and statistical inference, like the ones [described here]({{ site.baseurl }}/menu/research.html). Ultimately, the projects I'm interested in usually involve a little bit of theory, a little bit of computation, and a careful look at real data -- often together with experimental collaborators.
+I'm looking for prospective graduate (or undergraduate) students and postdocs who are interested in working on problems in immunology, evolution, and statistical inference, like the ones [described here]({{ "/menu/research.html" | relative_url }}). Ultimately, the projects I'm interested in usually involve a little bit of theory, a little bit of computation, and a careful look at real data -- often together with experimental collaborators.
 
 Students at Pitt or CMU should send me an email to set up a meeting. I'm always excited to discuss open projects. Analytical and/or computational skills are a must to get started. Deep experience with biology is also a plus, but it's not a requirement.
 

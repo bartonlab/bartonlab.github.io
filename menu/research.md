@@ -9,7 +9,7 @@ We seek to answer these kinds of questions by bringing together theory and data 
 
 <br>
 
-<img class="theme" src="{{ site.baseurl }}/assets/img/research/viral_evolution.png" width="200" height="200"/>
+<img class="theme" src="{{ "/assets/img/research/viral_evolution.png" | relative_url }}" width="200" height="200"/>
 
 ### Virus evolution
 
@@ -19,11 +19,11 @@ We aim to build a quantitative, *predictive* understanding of pathogen dynamics 
 
 #### Key papers:
 
-<small><b>Inferring effects of mutations on SARS-CoV-2 transmission from genomic surveillance data</b><br>Lee B, Sohail MS, Finney E, Ahmed SF, Quadeer AA, McKay MR, <b>Barton JP</b><br>medRxiv <a href="https://doi.org/10.1101/2021.12.31.21268591">[journal link]</a> <a href="{{ site.baseurl }}/assets/pdf/papers/lee-sc2-transmission.pdf">[pdf]</a> <a href="https://github.com/bartonlab/paper-SARS-CoV-2-inference">[code]</a></small>
+<small><b>Inferring effects of mutations on SARS-CoV-2 transmission from genomic surveillance data</b><br>Lee B, Sohail MS, Finney E, Ahmed SF, Quadeer AA, McKay MR, <b>Barton JP</b><br>medRxiv <a href="https://doi.org/10.1101/2021.12.31.21268591">[journal link]</a> <a href="{{ "/assets/pdf/papers/lee-sc2-transmission.pdf" | relative_url }}">[pdf]</a> <a href="https://github.com/bartonlab/paper-SARS-CoV-2-inference">[code]</a></small>
 
-<small><b>MPL resolves genetic linkage in fitness inference from complex evolutionary histories</b><br>Sohail MS<sup>=</sup>, Louie RH<sup>=</sup>, McKay MR<sup>c</sup>, <b>Barton JP</b><sup>c</sup><br>Nature Biotechnology <a href="https://doi.org/10.1038/s41587-020-0737-3">[journal link]</a> <a href="{{ site.baseurl }}/assets/pdf/papers/sohail-mpl.pdf">[pdf]</a> <a href="{{ site.baseurl }}/assets/pdf/papers/sohail-mpl-si.pdf">[si]</a> <a href="https://github.com/bartonlab/paper-MPL-inference">[code]</a></small>
+<small><b>MPL resolves genetic linkage in fitness inference from complex evolutionary histories</b><br>Sohail MS<sup>=</sup>, Louie RH<sup>=</sup>, McKay MR<sup>c</sup>, <b>Barton JP</b><sup>c</sup><br>Nature Biotechnology <a href="https://doi.org/10.1038/s41587-020-0737-3">[journal link]</a> <a href="{{ "/assets/pdf/papers/sohail-mpl.pdf" | relative_url }}">[pdf]</a> <a href="{{ "/assets/pdf/papers/sohail-mpl-si.pdf" | relative_url }}">[si]</a> <a href="https://github.com/bartonlab/paper-MPL-inference">[code]</a></small>
 
-<small><b>Paired quantitative and qualitative assessment of the replication-competent HIV-1 reservoir and comparison with integrated proviral DNA</b><br>Lorenzi JC, Cohen YZ, Cohn LB, Kreider EF, <b>Barton JP</b>, Learn GH, Oliveira T, Lavine CL, Horwitz JA, Settler A<br>Proceedings of the National Academy of Sciences, 2016 <a href="https://doi.org/10.1073/pnas.1617789113">[journal link]</a> <a href="{{ site.baseurl }}/assets/pdf/papers/lorenzi-qqvoa.pdf">[pdf]</a> <a href="{{ site.baseurl }}/assets/pdf/papers/lorenzi-qqvoa-si.pdf">[si]</a></small>
+<small><b>Paired quantitative and qualitative assessment of the replication-competent HIV-1 reservoir and comparison with integrated proviral DNA</b><br>Lorenzi JC, Cohen YZ, Cohn LB, Kreider EF, <b>Barton JP</b>, Learn GH, Oliveira T, Lavine CL, Horwitz JA, Settler A<br>Proceedings of the National Academy of Sciences, 2016 <a href="https://doi.org/10.1073/pnas.1617789113">[journal link]</a> <a href="{{ "/assets/pdf/papers/lorenzi-qqvoa.pdf" | relative_url }}">[pdf]</a> <a href="{{ "/assets/pdf/papers/lorenzi-qqvoa-si.pdf" | relative_url }}">[si]</a></small>
 
 <!---
 <small><b>Scaling laws describe memories of host-pathogen riposte in the HIV population</b><br><b>Barton JP</b>, Kardar M, Chakraborty AK<br>Proceedings of the National Academy of Sciences, 2015 <a href="https://doi.org/10.1073/pnas.1415386112">[journal link]</a> <a href="{{ site.baseurl }}/assets/pdf/papers/barton-hiv-basins.pdf">[pdf]</a> <a href="{{ site.baseurl }}/assets/pdf/papers/barton-hiv-basins-si.pdf">[si]</a></small>
