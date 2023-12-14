@@ -14,6 +14,14 @@ hide:
     John is an Associate Professor of Computational and Systems Biology at the University of Pittsburgh. He studies pathogen evolution and immunology using methods inspired by statistical physics.
     </small>
 
+-   ![Edwin](assets/img/members/edwin-rodriguez-horta-sq.jpg)<br>
+    __Edwin Rodriguez Horta, Postdoc__&nbsp;&nbsp;
+    <small>
+    [:fontawesome-brands-google-scholar:{ .middle }](https://scholar.google.com/citations?user=8trQrlgAAAAJ)
+    <br>
+    Edwin is a physicist and quantitative biologist focused on developing computational methods inspired by statistical physics and statistical learning to understand and predict complex biological systems, such as the phenomenology of evolution and the immune system.
+    </small>
+
 -   ![Kai](assets/img/members/kai-shimagaki-sq.jpg)<br>
     __Kai Shimagaki, Postdoc__&nbsp;&nbsp;
     <small>
@@ -21,14 +29,6 @@ hide:
     [:fontawesome-brands-github:{ .middle }](https://github.com/shimagaki)
     <br>
     Kai uses theoretical and computational methods to study evolution, with a particular interest in epistasis and host-pathogen coevolution.
-    </small>
-
--   ![Edwin](assets/img/members/edwin-rodriguez-horta-sq.jpg)<br>
-    __Edwin Rodriguez Horta, Postdoc__&nbsp;&nbsp;
-    <small>
-    [:fontawesome-brands-google-scholar:{ .middle }](https://scholar.google.com/citations?user=8trQrlgAAAAJ)
-    <br>
-    Edwin is a physicist and quantitative biologist focused on developing computational methods inspired by statistical physics and statistical learning to understand and predict complex biological systems, such as the phenomenology of evolution and the immune system.
     </small>
 
 -   ![Liz](assets/img/members/liz-finney-sq.jpg)<br>
