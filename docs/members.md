@@ -28,7 +28,7 @@ hide:
     [:fontawesome-brands-google-scholar:{ .middle }](https://scholar.google.com/citations?user=BJF41UIAAAAJ)
     [:fontawesome-brands-github:{ .middle }](https://github.com/shimagaki)
     <br>
-    Kai uses theoretical and computational methods to study evolution, with a particular interest in epistasis and host-pathogen coevolution.
+    Kai is a postdoc who obtained his Ph.D. in information science at Sorbonne University Paris 1 under the supervision of Dr. Martin Weigt. He is passionate about understanding rapidly evolving pathogens and immunities, with a particular interest in epistasis and coevolution. His research policy focuses on a quantitative understanding through the lenses of population genomics and statistical physics with great care for real biological phenomena and data.
     </small>
 
 -   ![Liz](assets/img/members/liz-finney-sq.jpg)<br>
