@@ -5,7 +5,7 @@ hide:
 
 My lab studies evolution and immunity. We're particularly interested in understanding how viruses evolve and how they interact with the human immune system. For example, how do viruses such as HIV and SARS-CoV-2 evolve to escape immunity? And how can the immune system reliably differentiate between healthy cells and ones that are cancerous or infected by intracellular pathogens? 
 
-We seek to answer these kinds of questions by bringing together theory and data analysis. Much of our work involves statistical inference. We're striving to understand how we can best learn about biological processes from data. The methods we develop are often inspired by statistical physics, combined with statistical learning, population genetics, and epidemiology.
+We develop theory and computational methods to answer these questions. The methods we develop are often inspired by statistical physics, combined with statistical learning, population genetics, and epidemiology.
 
 <br>
 
@@ -32,7 +32,7 @@ We aim to build quantitative models of pathogen dynamics at the level of individ
 
 #### Innate immunity
 
-The innate immune system is our first line of defense against invading pathogens, and it also helps to fight cancer and coordinate adaptive immunity. Some innate immune cells use a diverse array of germline-encoded receptors to discriminate between healthy cells ("self") and those which are foreign or infected ("nonself"). How do innate immune cells, whose receptors are fixed and immutable, manage to protect us from a broad range of continually-evolving pathogens? More broadly, what fundamental principles underlie this mode of pathogen recognition?
+The innate immune system is our first line of defense against invading pathogens, and it also helps to fight cancer and coordinate adaptive immunity. Some innate immune cells use a diverse array of germline-encoded receptors to discriminate between healthy cells ("self") and those which are foreign or infected ("nonself"). How do innate immune cells, whose receptors are fixed and immutable, provide protection against a broad range of continually-evolving pathogens? More broadly, what principles underlie pathogen recognition in the innate immune system?
 
 **Key papers**
 

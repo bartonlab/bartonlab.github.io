@@ -6,7 +6,7 @@ hide:
 
 # Joining the lab
 
-We are currently interested in recruiting one or more graduate (or undergraduate) students who are interested in working on problems in immunology, evolution, and statistical inference, like the ones [described here](research.md). Ultimately, the projects I'm interested in usually involve a little bit of theory, a little bit of computation, and a careful look at real data -- often together with experimental collaborators.
+We are currently interested in recruiting one or more graduate (or undergraduate) students who are interested in working on problems in immunology, evolution, and statistical inference, like the ones [described here](research.md). Ultimately, lab projects usually involve a combination of theory, computation, and careful data analysis -- often together with experimental collaborators.
 
 Students at Pitt or CMU should send me an email to set up a meeting. I'm always excited to discuss open projects. Analytical and/or computational skills are a must to get started. Deep experience with biology is also a plus, but it's not a requirement.
 
