@@ -11,6 +11,11 @@ See [Google Scholar](https://scholar.google.com/citations?user=ItAcAOMAAAAJ) for
 
 <!--- replace ### with <h3> </h3> to remove from nav> --->
 
+### 2024
+<small>**popDMS infers mutation effects from deep mutational scanning data**<br>**Hong Z**<sup>=</sup>, **Shimagaki KS**<sup>=</sup>, **Barton JP**<br>Bioinformatics [[journal link]](https://doi.org/10.1093/bioinformatics/btae499) [[pdf]](assets/pdf/papers/hong-popdms.pdf) [[si]](assets/pdf/papers/hong-popdms-si.pdf) [[code]](https://github.com/bartonlab/popDMS)</small>
+
+<small>**Correlated allele frequency changes reveal clonal structure and selection in temporal genetic data**<br>**Li Y**, **Barton JP**<br>Molecular Biology and Evolution [[journal link]](https://doi.org/10.1093/molbev/msae060) [[pdf]](assets/pdf/papers/li-clonal.pdf) [[si]](assets/pdf/papers/li-clonal-si.pdf) [[code]]( https://github.com/bartonlab/paper-clonal-dynamics)</small>
+
 ### 2023
 <small>**An inference model gives insights into innate immune adaptation and repertoire diversity**<br>**Qin Y**, Mace EM, **Barton JP**<br>Proceedings of the National Academy of Sciences [[journal link]](https://doi.org/10.1073/pnas.2305859120) [[pdf]](assets/pdf/papers/qin-innate.pdf) [[si]](assets/pdf/papers/qin-innate-si.pdf) [[code]](https://github.com/bartonlab/paper-innate-immune-adaptation)</small>
 
