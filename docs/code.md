@@ -13,6 +13,9 @@ We regularly publish code and analysis accompanying our publications. Associated
 
 <div class="grid cards" markdown>
 
+-   **[popDMS](https://github.com/bartonlab/popDMS)**<br>
+    <small>Population genetics-inspired inference of mutation effects from DMS experiments.</small>
+
 -   **[mplot](https://github.com/johnbarton/mplot)**<br>
     <small>Simple Python scripts for high quality figures in `matplotlib`.</small>
 
