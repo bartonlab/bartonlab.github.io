@@ -19,11 +19,12 @@ We aim to build quantitative models of pathogen dynamics at the level of individ
 
 **Key papers**
 
-<small><b>Inferring effects of mutations on SARS-CoV-2 transmission from genomic surveillance data</b><br><b>Lee B</b>, Sohail MS, <b>Finney E</b>, Ahmed SF, Quadeer AA, McKay MR, <b>Barton JP</b><br>medRxiv [[journal link]](https://doi.org/10.1101/2021.12.31.21268591) [[pdf]](assets/pdf/papers/lee-sc2-transmission.pdf) [[code]](https://github.com/bartonlab/paper-SARS-CoV-2-inference)</small>
+<small>**Parallel HIV-1 fitness landscapes shape viral dynamics in humans and macaques that develop broadly neutralizing antibodies**<br>**Shimagaki KS**, Lynch RM, **Barton JP**<br>bioRxiv [[journal link]](https://doi.org/10.1101/2024.07.12.603090) [[pdf]](assets/pdf/papers/shimagaki-parallel.pdf)  [[code]](https://github.com/bartonlab/paper-HIV-coevolution)</small>
+<!-- [[si]](assets/pdf/papers/shimagaki-parallel-si.pdf) -->
+
+<small><b>Inferring effects of mutations on SARS-CoV-2 transmission from genomic surveillance data</b><br><b>Lee B</b>, Sohail MS, <b>Finney E</b>, Ahmed SF, Quadeer AA, McKay MR<sup>c</sup>, <b>Barton JP</b><sup>c</sup><br>Nature Communications [[journal link]](https://doi.org/10.1038/s41467-024-55593-0) [[pdf]](assets/pdf/papers/lee-sc2-transmission.pdf) [[si]](assets/pdf/papers/lee-sc2-transmission-si.pdf) [[code]](https://github.com/bartonlab/paper-SARS-CoV-2-inference)</small>
 
 <small><b>MPL resolves genetic linkage in fitness inference from complex evolutionary histories</b><br>Sohail MS<sup>=</sup>, Louie RH<sup>=</sup>, McKay MR<sup>c</sup>, <b>Barton JP</b><sup>c</sup><br>Nature Biotechnology, 2021 [[journal link]](https://doi.org/10.1038/s41587-020-0737-3) [[pdf]](assets/pdf/papers/sohail-mpl.pdf) [[si]](assets/pdf/papers/sohail-mpl-si.pdf) [[code]](https://github.com/bartonlab/paper-MPL-inference)</small>
-
-<small><b>Paired quantitative and qualitative assessment of the replication-competent HIV-1 reservoir and comparison with integrated proviral DNA</b><br>Lorenzi JC, Cohen YZ, Cohn LB, Kreider EF, <b>Barton JP</b>, Learn GH, Oliveira T, Lavine CL, Horwitz JA, Settler A<br>Proceedings of the National Academy of Sciences, 2016 [[journal link]](https://doi.org/10.1073/pnas.1617789113) [[pdf]](assets/pdf/papers/lorenzi-qqvoa.pdf) [[si]](assets/pdf/papers/lorenzi-qqvoa-si.pdf)</small>
 
 <br>
 
@@ -51,8 +52,8 @@ We aim to develop methods to efficiently learn from this kind of data, and to us
 
 **Key papers**
 
-<small><b>Inferring effects of mutations on SARS-CoV-2 transmission from genomic surveillance data</b><br><b>Lee B</b>, Sohail MS, <b>Finney E</b>, Ahmed SF, Quadeer AA, McKay MR, <b>Barton JP</b><br>medRxiv [[journal link]](https://doi.org/10.1101/2021.12.31.21268591) [[pdf]](assets/pdf/papers/lee-sc2-transmission.pdf) [[code]](https://github.com/bartonlab/paper-SARS-CoV-2-inference)</small>
+<small><b>Inferring effects of mutations on SARS-CoV-2 transmission from genomic surveillance data</b><br><b>Lee B</b>, Sohail MS, <b>Finney E</b>, Ahmed SF, Quadeer AA, McKay MR, <b>Barton JP</b><br>Nature Communications [[journal link]](https://doi.org/10.1038/s41467-024-55593-0) [[pdf]](assets/pdf/papers/lee-sc2-transmission.pdf) [[si]](assets/pdf/papers/lee-sc2-transmission-si.pdf) [[code]](https://github.com/bartonlab/paper-SARS-CoV-2-inference)</small>
 
-<small><b>popDMS infers mutation effects from deep mutational scanning data</b><br><b>Hong Z</b>, <b>Barton JP</b><br>bioRxiv [[journal link]](https://www.biorxiv.org/content/10.1101/2024.01.29.577759) [[pdf]](assets/pdf/papers/hong-popdms.pdf) [[code]](https://github.com/bartonlab/paper-DMS-inference)</small>
+<small>**popDMS infers mutation effects from deep mutational scanning data**<br>**Hong Z**<sup>=</sup>, **Shimagaki KS**<sup>=</sup>, **Barton JP**<br>Bioinformatics [[journal link]](https://doi.org/10.1093/bioinformatics/btae499) [[pdf]](assets/pdf/papers/hong-popdms.pdf) [[si]](assets/pdf/papers/hong-popdms-si.pdf) [[code]](https://github.com/bartonlab/popDMS)</small>
 
 <small><b>MPL resolves genetic linkage in fitness inference from complex evolutionary histories</b><br>Sohail MS<sup>=</sup>, Louie RH<sup>=</sup>, McKay MR<sup>c</sup>, <b>Barton JP</b><sup>c</sup><br>Nature Biotechnology, 2021 [[journal link]](https://doi.org/10.1038/s41587-020-0737-3) [[pdf]](assets/pdf/papers/sohail-mpl.pdf) [[si]](assets/pdf/papers/sohail-mpl-si.pdf) [[code]](https://github.com/bartonlab/paper-MPL-inference)</small>

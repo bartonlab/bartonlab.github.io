@@ -31,14 +31,6 @@ hide:
     Kai is a postdoc who obtained his Ph.D. in information science at Sorbonne University Paris 1 under the supervision of Dr. Martin Weigt. He is passionate about understanding rapidly evolving pathogens and immunities, with a particular interest in epistasis and coevolution. His research policy focuses on a quantitative understanding through the lenses of population genomics and statistical physics with great care for real biological phenomena and data.
     </small>
 
--   ![Liz](assets/img/members/liz-finney-sq.jpg)<br>
-    __Liz Finney, Graduate Student__&nbsp;&nbsp;
-    <small>
-    [:fontawesome-solid-bolt-lightning:{ .middle }](https://sites.google.com/view/ucr-powur/)
-    <br>
-    Liz studies computational epidemiology, immunology, and the evolution of viral pathogens. Most recently, she is working on a project involving SARS-CoV-2. In her spare time, she helps lead POWUR, a student-created group working to foster a climate of diversity, equity, and inclusion in physics.
-    </small>
-
 -   ![Yirui](assets/img/members/yirui-gao-sq.jpg)<br>
     __Yirui Gao, Graduate Student__&nbsp;&nbsp;
     <small>
@@ -47,21 +39,23 @@ hide:
     Yirui is interested in fitness inference from evolutionary histories using methods from statistical physics. Recently, she has been working on using quantitative trait models to study HIV evolution.
     </small>
 
--   ![Brian](assets/img/members/brian-lee-sq.jpg)<br>
-    __Brian Lee, Graduate Student__&nbsp;&nbsp;
+-   ![Gargi](assets/img/members/gargi-kher-sq.jpg)<br>
+    __Gargi Kher, Graduate Student__&nbsp;&nbsp;
     <small>
-    [:fontawesome-brands-github:{ .middle }](https://github.com/leebs92)
+    [:fontawesome-brands-github:{ .middle }](https://github.com/kherg)
     <br>
-    Brian is developing quantitative methods to study SARS-CoV-2 evolution. He has also studied how immune cells use the information provided by their environment to make decisions. More generally, he is interested in information processing and its relationship to decision theory.
+    Gargi is a CMU-Pitt Computational Biology PhD student co-mentored by [Dr. Shikhar Uttam](https://www.uttamlab.com/). She's broadly interested in using quantitative methods to understand how the decisions, interactions and spatial organization of components of our immune system contribute to disease.
     </small>
 
--   ![Kevin](assets/img/members/kevin-yang-sq.jpg)<br>
-    __Kevin Yang, Graduate Student__&nbsp;&nbsp;
+<!-- 
+-   ![Maddie](assets/img/members/maddie-shaklee-sq.jpg)<br>
+    __Maddie Shaklee, Graduate Student__&nbsp;&nbsp;
     <small>
-    [:fontawesome-brands-google-scholar:{ .middle }](https://scholar.google.com/citations?user=tdb3IasAAAAJ)
+    [:fontawesome-brands-github:{ .middle }](https://github.com/kherg)
     <br>
-    Kevin Yang is currently studying immune activation and biochemical signaling networks. His past research focused on physics and public health topics in China, Australia, and the United Kingdom.
+    Maddie is a CMU-Pitt Computational Biology PhD student co-mentored by [Dr. Harinder Singh](https://www.immunology.pitt.edu/people/harinder-singh-phd). She's broadly interested in using quantitative methods to understand how the decisions, interactions and spatial organization of components of our immune system contribute to disease.
     </small>
+-->
 
 </div>
 
@@ -70,6 +64,12 @@ hide:
 
 
 ### Graduate students
+
+**Liz Finney**, PhD student in University of California, Riverside Department of Physics and Astronomy. Graduated 2025. 
+
+**Brian Lee**, PhD student in University of California, Riverside Department of Physics and Astronomy. Graduated 2025. 
+
+**Kevin Yang**, PhD student in University of California, Riverside Biophysics Graduate Program. Currently working with [Roya Zandi](https://zandilab.ucr.edu/) at UCR.
 
 **Yunxiao Li**, PhD student in University of California, Riverside Department of Physics and Astronomy. Graduated 2022. Currently at Cardinal Biocraft.
 
