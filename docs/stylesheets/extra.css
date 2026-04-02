@@ -11,3 +11,40 @@ img.theme {
   margin-left: auto;
   margin-right: auto;
 }
+
+/* Members page layout tuning */
+
+.md-typeset .grid.cards.members-grid > ul {
+  gap: 0.9rem;
+}
+
+/* Increase column count on larger screens for a denser desktop layout */
+@media screen and (min-width: 76.25em) {
+  .md-typeset .grid.cards.members-grid > ul {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+}
+
+@media screen and (min-width: 93.75em) {
+  .md-typeset .grid.cards.members-grid > ul {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+  }
+}
+
+/* Keep profile images compact inside each card */
+.md-typeset .grid.cards.members-grid img {
+  width: 200px;
+  max-width: 100%;
+  margin: 0 auto 0.5rem;
+  display: block;
+}
+
+/* Tighten member description spacing (single-spaced feel) */
+.md-typeset .grid.cards.members-grid li,
+.md-typeset .grid.cards.members-grid small {
+  line-height: 1.30;
+}
+
+.md-typeset .grid.cards.members-grid li > p {
+  margin: 0;
+}

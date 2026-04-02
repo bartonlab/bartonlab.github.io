@@ -4,7 +4,7 @@ hide:
 #   - toc
 ---
 
-<div class="grid cards" markdown>
+<div class="grid cards members-grid" markdown>
 
 -   ![John](assets/img/members/john-barton-sq.jpg)<br>
     __John Barton, PI__&nbsp;&nbsp;
@@ -28,7 +28,7 @@ hide:
     [:fontawesome-brands-google-scholar:{ .middle }](https://scholar.google.com/citations?user=BJF41UIAAAAJ)
     [:fontawesome-brands-github:{ .middle }](https://github.com/shimagaki)
     <br>
-    Kai is a postdoc who obtained his Ph.D. in information science at Sorbonne University Paris 1 under the supervision of Dr. Martin Weigt. He is passionate about understanding rapidly evolving pathogens and immunities, with a particular interest in epistasis and coevolution. His research policy focuses on a quantitative understanding through the lenses of population genomics and statistical physics with great care for real biological phenomena and data.
+    Kai is a postdoc who obtained his Ph.D. in information science at Sorbonne University Paris 1 under the supervision of [Dr. Martin Weigt](https://sites.google.com/site/martinweigt/). He is passionate about understanding rapidly evolving pathogens and immunities, with a particular interest in epistasis and coevolution. His research policy focuses on a quantitative understanding through the lenses of population genomics and statistical physics with great care for real biological phenomena and data.
     </small>
 
 -   ![Yirui](assets/img/members/yirui-gao-sq.jpg)<br>
@@ -47,15 +47,32 @@ hide:
     Gargi is a CMU-Pitt Computational Biology PhD student co-mentored by [Dr. Shikhar Uttam](https://www.uttamlab.com/). She's broadly interested in using quantitative methods to understand how the decisions, interactions and spatial organization of components of our immune system contribute to disease.
     </small>
 
-<!-- 
 -   ![Maddie](assets/img/members/maddie-shaklee-sq.jpg)<br>
     __Maddie Shaklee, Graduate Student__&nbsp;&nbsp;
     <small>
-    [:fontawesome-brands-github:{ .middle }](https://github.com/kherg)
+    [:fontawesome-brands-google-scholar:{ .middle }](https://scholar.google.com/citations?user=GRWfK_QAAAAJ)
+    [:fontawesome-brands-github:{ .middle }](https://github.com/m-shaklee)
     <br>
-    Maddie is a CMU-Pitt Computational Biology PhD student co-mentored by [Dr. Harinder Singh](https://www.immunology.pitt.edu/people/harinder-singh-phd). She's broadly interested in using quantitative methods to understand how the decisions, interactions and spatial organization of components of our immune system contribute to disease.
+    Maddie is a CMU-Pitt Computational Biology PhD student co-advised with [Dr. Harinder Singh](https://www.immunology.pitt.edu/people/harinder-singh-phd). She is interested in using computational and mathematical approaches to understand how immune cells sense and respond to signals, with a focus on how T-cell activation thresholds shape immune memory and disease outcomes.
     </small>
--->
+
+-   ![Dylan](assets/img/members/dylan-wells-sq.jpg)<br>
+    __Dylan Wells, Graduate Student__&nbsp;&nbsp;
+    <small>
+    [:fontawesome-brands-google-scholar:{ .middle }](https://scholar.google.com/citations?user=43LeKrgAAAAJ)
+    [:fontawesome-brands-github:{ .middle }](https://github.com/dylanwells37)
+    <br>
+    Dylan is a Pitt Physics PhD student. He has previously worked in building evolutionary algorithms to optimize radio astronomy instrumentation. Now, he is largely interested in using computation and statistical physics to study evolutionary dynamics and fitness inference.
+    </small>
+
+-   ![Saul](assets/img/members/saul-castillo-sq.jpg)<br>
+    __Saúl Castillo, Graduate Student__&nbsp;&nbsp;
+    <small>
+    [:fontawesome-brands-github:{ .middle }](https://github.com/SaulCastillo-1021)
+    <br>
+    Saúl is a CMU-Pitt Computational Biology Ph.D. student interested in predictive models of viral evolution and the role of antigenic properties in shaping evolutionary dynamics.
+    </small>
+
 
 </div>
 
@@ -92,5 +109,4 @@ hide:
 **Uchenna Nwaege**, Physics major and MARC U STAR Scholar at the University of California, Riverside. Graduated 2023. Currently a graduate student at the University of Michigan.
 
 **Camille Rotemberg**, TECBio REU student, 2023. Currently an undergraduate student at Cooper Union.
-
 

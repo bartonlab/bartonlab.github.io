@@ -1,5 +1,6 @@
 # Local files
 local
+site
 
 # Mac hidden files
 .DS_Store
