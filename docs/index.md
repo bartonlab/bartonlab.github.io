@@ -12,8 +12,8 @@ I graduated from Duke University with degrees in Physics and Mathematics, and co
 
 # Contact
 
-830 Murdoch Building<br>
-3420 Forbes Avenue<br>
+Fifth and Halket Building<br>
+3396 Fifth Avenue<br>
 Pittsburgh, PA 15213<br>
 
 jpbarton@pitt.edu
