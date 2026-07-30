@@ -14,19 +14,19 @@ img.theme {
 
 /* Members page layout tuning */
 
-.md-typeset .grid.cards.members-grid > ul {
+.md-typeset .grid.cards.members-grid {
   gap: 0.9rem;
 }
 
 /* Increase column count on larger screens for a denser desktop layout */
 @media screen and (min-width: 76.25em) {
-  .md-typeset .grid.cards.members-grid > ul {
+  .md-typeset .grid.cards.members-grid {
     grid-template-columns: repeat(3, minmax(0, 1fr));
   }
 }
 
 @media screen and (min-width: 93.75em) {
-  .md-typeset .grid.cards.members-grid > ul {
+  .md-typeset .grid.cards.members-grid {
     grid-template-columns: repeat(4, minmax(0, 1fr));
   }
 }

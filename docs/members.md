@@ -1,7 +1,7 @@
 ---
 hide:
   - navigation
-#   - toc
+  - toc
 ---
 
 <div class="grid cards members-grid" markdown>
@@ -109,4 +109,3 @@ hide:
 **Uchenna Nwaege**, Physics major and MARC U STAR Scholar at the University of California, Riverside. Graduated 2023. Currently a graduate student at the University of Michigan.
 
 **Camille Rotemberg**, TECBio REU student, 2023. Currently an undergraduate student at Cooper Union.
-

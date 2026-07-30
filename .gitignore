@@ -1,6 +1,7 @@
 # Local files
 local
 site
+.venv/
 
 # Mac hidden files
 .DS_Store

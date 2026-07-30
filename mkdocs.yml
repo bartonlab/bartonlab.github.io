@@ -1,6 +1,8 @@
 site_name: Barton lab
+site_url: https://bartonlab.github.io
 theme:
   name: material
+  variant: classic
   palette:
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
@@ -28,9 +30,6 @@ theme:
     - navigation.tabs
     - navigation.tabs.sticky
     - navigation.indexes
-plugins: 
-  - blog:
-      post_readtime: false
 markdown_extensions:
   - attr_list
   - pymdownx.emoji:
@@ -60,4 +59,3 @@ nav:
   - Code: 'code.md'
   - Members: 'members.md'
   - Join: 'join.md'
-  
