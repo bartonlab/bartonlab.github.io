@@ -14,23 +14,6 @@ hide:
     John is an Associate Professor of Computational and Systems Biology at the University of Pittsburgh. He studies pathogen evolution and immunology using methods inspired by statistical physics.
     </small>
 
--   ![Edwin](assets/img/members/edwin-rodriguez-horta-sq.jpg)<br>
-    __Edwin Rodriguez Horta, Postdoc__&nbsp;&nbsp;
-    <small>
-    [:fontawesome-brands-google-scholar:{ .middle }](https://scholar.google.com/citations?user=8trQrlgAAAAJ)
-    <br>
-    Edwin is a physicist and quantitative biologist focused on developing computational methods inspired by statistical physics and statistical learning to understand and predict complex biological systems, such as the phenomenology of evolution and the immune system.
-    </small>
-
--   ![Kai](assets/img/members/kai-shimagaki-sq.jpg)<br>
-    __Kai Shimagaki, Postdoc__&nbsp;&nbsp;
-    <small>
-    [:fontawesome-brands-google-scholar:{ .middle }](https://scholar.google.com/citations?user=BJF41UIAAAAJ)
-    [:fontawesome-brands-github:{ .middle }](https://github.com/shimagaki)
-    <br>
-    Kai is a postdoc who obtained his Ph.D. in information science at Sorbonne University Paris 1 under the supervision of [Dr. Martin Weigt](https://sites.google.com/site/martinweigt/). He is passionate about understanding rapidly evolving pathogens and immunities, with a particular interest in epistasis and coevolution. His research policy focuses on a quantitative understanding through the lenses of population genomics and statistical physics with great care for real biological phenomena and data.
-    </small>
-
 -   ![Yirui](assets/img/members/yirui-gao-sq.jpg)<br>
     __Yirui Gao, Graduate Student__&nbsp;&nbsp;
     <small>
@@ -73,16 +56,27 @@ hide:
     Saúl is a CMU-Pitt Computational Biology Ph.D. student interested in predictive models of viral evolution and the role of antigenic properties in shaping evolutionary dynamics.
     </small>
 
+-   ![Meilin](assets/img/members/meilin-scott-sq.jpg)<br>
+    __Meilin Scott, Master's Student__&nbsp;&nbsp;
+    <small>
+    <br>
+    Meilin is a Master’s student in Automated Science - Biological Experimentation at Carnegie Mellon University. She is focused on the evolution of the HMPV virus.
+    </small>
 
 </div>
 
 
 ## Alumni
 
+### Postdocs
+
+**Kai Shimagaki**, currently Assistant Research Scientist at the University of Michigan Center for Applied and Interdisciplinary Mathematics.
+
+**Edwin Rodríguez Horta**, currently a postdoc with [[Matthew McKay](https://www.mckayspcb.com/)] at the University of Melbourne.
 
 ### Graduate students
 
-**Liz Finney**, PhD student in University of California, Riverside Department of Physics and Astronomy. Graduated 2025. 
+**Liz Finney**, PhD student in University of California, Riverside Department of Physics and Astronomy. Graduated 2025. Currently a postdoc with [Satoshi Okawa](https://people.dom.pitt.edu/people/satoshi-okawa-phd) at the University of Pittsburgh.
 
 **Brian Lee**, PhD student in University of California, Riverside Department of Physics and Astronomy. Graduated 2025. 
 
