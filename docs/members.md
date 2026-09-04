@@ -72,7 +72,7 @@ hide:
 
 **Kai Shimagaki**, currently Assistant Research Scientist at the University of Michigan Center for Applied and Interdisciplinary Mathematics.
 
-**Edwin Rodríguez Horta**, currently a postdoc with [[Matthew McKay](https://www.mckayspcb.com/)] at the University of Melbourne.
+**Edwin Rodríguez Horta**, currently a postdoc with [Matthew McKay](https://www.mckayspcb.com/) at the University of Melbourne.
 
 ### Graduate students
 
